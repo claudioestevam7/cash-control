@@ -1,0 +1,8 @@
+# Iniciar o proceto na pasta (rodar codigo dentro do diretorio)
+npx create-react-app ./
+
+# importar icones
+yarn add styled-components react-icons 
+
+# Rodas a aplicação
+yarn start
